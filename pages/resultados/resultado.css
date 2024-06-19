@@ -153,6 +153,7 @@ main button {
 
     font-size: 18px;
     font-weight: 500;
+    box-shadow: var(--shadow);
 }
 
 main button:hover {
