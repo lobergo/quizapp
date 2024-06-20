@@ -137,8 +137,7 @@ function validarResposta() {
 
 function finalizar() {
     localStorage.setItem("pontos", pontos)
-
-    window.location.href = "../resultado/resultado.html"
+    window.location.href = "../resultados/resultados.html"
 }
 
 function proximaPergunta() {
