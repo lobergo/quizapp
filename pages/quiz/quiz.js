@@ -94,7 +94,7 @@ function montarPergunta() {
                     </label>
                 </form>
 
-                <button>Resposder</button>
+                <button>Responder</button>
             </section>
         `
 }
